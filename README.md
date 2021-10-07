@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi 👋, I'm Julio Gabriel!
+
+:computer: I'm Back-End Developer!
+:house_with_garden: I’m from Brazil.
+:books: I’m currently learning everything.
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
 <div align="center">
   <a href="https://github.com/juliootonidev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliootonidev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

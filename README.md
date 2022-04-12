@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/juliootonidev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliootonidev&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliootonidev&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliootonidev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliootonidev&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">

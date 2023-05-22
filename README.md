@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: create a new project and find a new job.
 
 <div align="center">
   <a href="https://github.com/juliootonidev">

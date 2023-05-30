@@ -64,10 +64,6 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliootonidev&bg_color=c7e2ff&color=191fb3&line=112579&point=fafaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-      ![Snake animation](https://github.com/juliootonidev/juliootonidev/blob/output/github-contribution-grid-snake.svg) 
-</div>
+![Snake animation](https://github.com/juliootonidev/juliootonidev/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
